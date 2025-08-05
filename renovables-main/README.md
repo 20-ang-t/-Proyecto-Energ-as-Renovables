@@ -64,7 +64,7 @@ renovables/
 1.  **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/JulianRR24/renovables.git
+    git clone https:https://github.com/20-ang-t/-Proyecto-Energ-as-Renovables
     ```
 
 2.  **Abre el archivo `index.html`**:
