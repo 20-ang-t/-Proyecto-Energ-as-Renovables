@@ -65,6 +65,7 @@ renovables/
 
     ```bash
     git clone https:https://github.com/20-ang-t/-Proyecto-Energ-as-Renovables
+    Video explicativo del proyecto: https://youtu.be/QrsFEt3Lz8s
     ```
 
 2.  **Abre el archivo `index.html`**:
